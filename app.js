@@ -75,5 +75,3 @@ btnTecla7.addEventListener('click', sonar12);
 function sonar12 (){
     audio12.play();
 }
-
-
